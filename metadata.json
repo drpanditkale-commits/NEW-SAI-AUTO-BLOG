@@ -1,0 +1,6 @@
+{
+  "name": "AutoBlog Studio - Autonomous Blogger Publisher",
+  "description": "Secure, isolated multi-blog automation and publishing system for Google Blogger with AI niche detection, fresh RSS research, SEO audits, and AdSense quality controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
